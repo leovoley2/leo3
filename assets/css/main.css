@@ -204,7 +204,9 @@ section {
   inset: 0;
   z-index: 999999;
   overflow: hidden;
-  background: #fff;
+  background: url(../img/kdr.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   transition: all 0.6s ease-out;
 }
 
