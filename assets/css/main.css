@@ -293,6 +293,9 @@ section {
         width: 100%;
         height: 15rem;
     }
+    .header .logo img{
+      display: none;
+    }
 }
 /*--------------------------------------------------------------
 # Desktop Navigation
